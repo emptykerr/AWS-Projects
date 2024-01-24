@@ -22,7 +22,7 @@ This technical documentation provides an overview and guide to implementing the 
 the slightly more advanced implementation (paid). This documentation assumes that you are familiar AWS and can navigate the AWS Console and has a general understanding of AWS and its services, as well as decent understanding of programming.
 This documentation also assumes that you have a decent understanding of the Linux Command Line and other tools such as SSH clients.
 ### Key Files
-
+[Files can be downloaded here](./aws_jedi_council_static_www)
 - **index.html**: Front end of the website.
 - **404.html**: Error page displayed when the website cannot be found.
 
